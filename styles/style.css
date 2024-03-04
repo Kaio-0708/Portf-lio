@@ -142,8 +142,8 @@ body{
 
 @media (max-width: 480px){
     .cabecalho{
-        padding: 5%;
-
+        padding: 5% 0;
+        text-align: center;
     }
     
     .cabecalho__menu{
@@ -157,5 +157,9 @@ body{
 
     .apresentacao__conteudo{
         width: auto;
+    }
+   
+    .rodape {
+        text-align: center;
     }
 }
