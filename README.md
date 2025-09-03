@@ -29,4 +29,8 @@ Obrigado por visitar meu portfólio!
 
 Todo o conteúdo deste portfólio é protegido por direitos autorais. Qualquer uso não autorizado das informações contidas aqui será considerado uma violação das leis de direitos autorais.
 
+## Autor
+
+Kaio Vitor - [GitHub](https://github.com/Kaio-0708)
+
 Site: https://portf-lio-orcin.vercel.app/
